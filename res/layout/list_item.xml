@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+
+	<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/playerText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#FFFFFF"
+    android:paddingBottom="0dp" android:paddingTop="5dp" android:textSize="17dp"/>
+    
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/oldStatsText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#FFFFFF"
+    android:paddingBottom="0dp" android:paddingTop="0dp" android:textSize="15dp"/>
+    
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/projectedStatsText"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#FFFFFF"
+    android:paddingBottom="5dp" android:paddingTop="0dp" android:textSize="15dp"/>
+		
+</LinearLayout>

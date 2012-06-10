@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@+id/myteam" android:title="My Team"></item>
+	<item android:title="Other Teams" android:id="@+id/otherteams"></item><item android:icon="@drawable/ic_reset" android:id="@+id/reset"
+		android:title="Reset Lists" />
+	<item android:icon="@drawable/ic_help" android:id="@+id/help"
+		android:title="Help" />
+	<item android:icon="@drawable/ic_about" android:id="@+id/about"
+		android:title="About" />
+	
+
+
+
+</menu>
